@@ -1,4 +1,4 @@
-<h2>Informações<h2>
+<h2>Informações</h2>
 
 Os arquivos "script" são responsáveis pela criação dos DBs utlizados para fazer as consultas e comandos aprendidos no curso.
 Os arquivos estão nomeados de acordo com a seção do curso em que foram vistos (seçao 1, 2, 3...).
